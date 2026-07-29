@@ -286,14 +286,14 @@ $GLOBALS['__ALFA_COLOR__'] = array(
 			)
 		),
 		"main_name" => array(
-			"key_color" => "#56a1fc",
+			"key_color" => "#FFFFFF",
 			"multi_selector" => array(
 				".main .main_name" => "color: {color};font-weight: unset;",
 			)
 		),
-		"main_size" => "#56a1fc",
-		"main_modify" => "#56a1fc",
-		"main_owner_group" => "#56a1fc",
+		"main_size" => "#FFFFFF",
+		"main_modify" => "#FFFFFF",
+		"main_owner_group" => "#FFFFFF",
 		"main_green_perm" => "#00FF00",
 		"main_red_perm" => "#ff0000",
 		"main_white_perm" => "#FFFFFF",
